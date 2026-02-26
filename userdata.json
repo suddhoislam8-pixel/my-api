@@ -1,8 +1,175 @@
 [
-  {
-    "key": "RAFI_KING",
-    "device_id": "27b96de37e7e4cfb",
-    "expirydate": "2030-12-31",
-    "Allowoffline": true
-  }
+    {
+        "device_id": "72a25132d3e39c01",
+        "key": "@Genetxu1",
+        "expirydate": "28-02-2037",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "8c2d46af00345a87",
+        "key": "rafi",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "15f42d95a3c09b9d",
+        "key": "shawn",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5604a98cf8c5a0b3",
+        "key": "miktad",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "0b43787de2239d39",
+        "key": "mazid",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "f01dd7b35fdf6acf",
+        "key": "milon",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    } ,
+    {
+        "device_id": "a6e1f860fc543df6",
+        "key": "Babor",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "2566f826c85c2bd3",
+        "key": "sabbir",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "d82ae760c2a26e0a",
+        "key": "609828",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "1ec7cd5c9e5bfa47",
+        "key": "Shefat",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "65091efe472677d1",
+        "key": "trail78",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    } ,
+    {
+        "device_id": "ac16055cb4f2e00a",
+        "key": "trail79",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "3695b8adf3c40ded",
+        "key": "piash",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "f84a81e97e9b83d6",
+        "key": "emon",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "3515ba0859620b64",
+        "key": "ramim",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "e9f2f868a2fc12e1",
+        "key": "shahed",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    } ,
+    {
+        "device_id": "05d730f71a24541d",
+        "key": "maruf",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "27b96de37e7e4cfb",
+        "key": "jahid.bro.pro",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "11111111111111111",
+        "key": "1111111",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "11111111111111",
+        "key": "111111111",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "111111111111111",
+        "key": "1111111",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    } ,
+    {
+        "device_id": "11111111111111",
+        "key": "11111",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "11111111111111",
+        "key": "11111111111",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "111111111111111",
+        "key": "1111111111",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "11111111111111",
+        "key": "111111",
+        "expirydate": "28-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "111111111111111111",
+        "key": "111111111",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    } ,
+    {
+        "device_id": "111111111111111111111",
+        "key": "11111111111",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "1111111111111111",
+        "key": "11111111",
+        "expirydate": "29-02-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "11111111111111111",
+        "key": "11111111111",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "11111111111111",
+        "key": "111111111",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true
+    },
+    {   "device_id": "111111111111111",
+        "key": "1111111111",
+        "expirydate": "27-02-2026",
+        "Allowoffline": true}
 ]
